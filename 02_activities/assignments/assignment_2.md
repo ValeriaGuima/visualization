@@ -36,35 +36,35 @@ In this chart from The Economist dated November 26, 2005, the age of retirement 
 ## Considering Figure 2:
 
 ### Is the visualization pleasing to look at?
-    Aesthetic - No, the visualization is not aesthetically pleasing. The repetition of colors every fifth country confounds readers. There is an expectation that color differences should correspond to data differences. This expectation is violated, leading to a misleading and confusing presentation.
+Aesthetic - No, the visualization is not aesthetically pleasing. The repetition of colors every fifth country confounds readers. There is an expectation that color differences should correspond to data differences. This expectation is violated, leading to a misleading and confusing presentation.
 
 ### Does the visualization accurately and honestly present data?
-    Substantive - Not effectively. The age axis is labeled with large intervals (0, 20, 40, 60), making it difficult to pinpoint the specific retirement ages. This leaves a vague impression that the retirement age is generally over 60, but the exact maximum age is unclear.
+ Substantive - Not effectively. The age axis is labeled with large intervals (0, 20, 40, 60), making it difficult to pinpoint the specific retirement ages. This leaves a vague impression that the retirement age is generally over 60, but the exact maximum age is unclear.
 
 ### Can we understand the message the maker of the visualization is attempting to convey?
-    Perceptual - No, the chart's title, "Effective retirement age for men," suggests a focus on comparing retirement ages across countries. However, the lack of precise age markings and the confusing use of colors obscure this comparison, making it hard to discern specific retirement ages or differences between countries.
+Perceptual - No, the chart's title, "Effective retirement age for men," suggests a focus on comparing retirement ages across countries. However, the lack of precise age markings and the confusing use of colors obscure this comparison, making it hard to discern specific retirement ages or differences between countries.
 
 This description highlights the main flaws of the visualization, emphasizing the problematic use of color and the unclear presentation of data, which together result in a confusing and ineffective chart.
 
       ```
     - How could this data visualization have been improved?  
       ```
-    ## To improve this data visualization, several adjustments could be made:
+    ##  To improve this data visualization, several adjustments could be made:
 
-    Clarity in the Title: The title should include references to the minimum and maximum retirement ages to provide context. For example, "Effective Retirement Age for Men: Comparison by Country (Min Age - Max Age)" would immediately inform the reader about the range of data presented.
+Clarity in the Title: The title should include references to the minimum and maximum retirement ages to provide context. For example, "Effective Retirement Age for Men: Comparison by Country (Min Age - Max Age)" would immediately inform the reader about the range of data presented.
 
-    Use of Colors: Colors should be used to represent different ranges of retirement ages rather than randomly assigning them to countries. For instance, a gradient scale from light to dark could represent increasing retirement ages, helping viewers quickly understand the distribution of ages across countries.
+Use of Colors: Colors should be used to represent different ranges of retirement ages rather than randomly assigning them to countries. For instance, a gradient scale from light to dark could represent increasing retirement ages, helping viewers quickly understand the distribution of ages across countries.
 
-    Ranking or Ordering: Countries could be ranked or ordered based on the minimum or maximum retirement age. This would help convey a clear message about which countries have the lowest and highest retirement ages, making it easier for readers to compare and contrast.
+Ranking or Ordering: Countries could be ranked or ordered based on the minimum or maximum retirement age. This would help convey a clear message about which countries have the lowest and highest retirement ages, making it easier for readers to compare and contrast.
 
-    Axis Labels and Scale: The age axis should have more specific and frequent labels, such as every 5 or 10 years, to make it easier to identify the exact retirement age for each country.
+Axis Labels and Scale: The age axis should have more specific and frequent labels, such as every 5 or 10 years, to make it easier to identify the exact retirement age for each country.
 
-    Data Annotations: Adding data labels or annotations, such as the exact retirement age, can provide additional clarity. This way, even if the visual elements are misinterpreted, the exact numbers are still available.
+Data Annotations: Adding data labels or annotations, such as the exact retirement age, can provide additional clarity. This way, even if the visual elements are misinterpreted, the exact numbers are still available.
 
-    Legend and Descriptions: Including a legend that explains the meaning of the colors or symbols used would help prevent confusion and ensure that the reader understands the visual encoding.
+Legend and Descriptions: Including a legend that explains the meaning of the colors or symbols used would help prevent confusion and ensure that the reader understands the visual encoding.
 
-    By implementing these improvements, the visualization would become more informative and easier to understand, allowing readers to quickly grasp the differences in retirement ages across different countries.
-     
+By implementing these improvements, the visualization would become more informative and easier to understand, allowing readers to quickly grasp the differences in retirement ages across different countries.
+ 
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
