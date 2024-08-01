@@ -20,13 +20,13 @@ Visual Capitalist has this wonderful chart showing the gaps between the stock ma
 ### Considering Figure 1:
 
 ### Is the visualization pleasing to look at?
-    Aesthetic - Yes, the visualization is aesthetically pleasing and attracts readers. It effectively uses various font sizes and illustrative figures. The colors are bright but not overwhelming.
+Aesthetic - Yes, the visualization is aesthetically pleasing and attracts readers. It effectively uses various font sizes and illustrative figures. The colors are bright but not overwhelming.
 
 ### Does the visualization accurately and honestly present data?
-    Substantive - Yes, the data accurately shows the variance in expectations between the two groups by country. The chart highlights the five countries with the highest expectation gaps at the bottom.
+Substantive - Yes, the data accurately shows the variance in expectations between the two groups by country. The chart highlights the five countries with the highest expectation gaps at the bottom.
 
 ### Can we understand the message the maker of the visualization is attempting to convey?
-    Perceptual - Yes, the visualization clearly conveys that investors' expectations are generally much higher than those of analysts.
+Perceptual - Yes, the visualization clearly conveys that investors' expectations are generally much higher than those of analysts.
 
 
 ## Figure 2 - Bad Visualization
@@ -39,7 +39,7 @@ In this chart from The Economist dated November 26, 2005, the age of retirement 
 Aesthetic - No, the visualization is not aesthetically pleasing. The repetition of colors every fifth country confounds readers. There is an expectation that color differences should correspond to data differences. This expectation is violated, leading to a misleading and confusing presentation.
 
 ### Does the visualization accurately and honestly present data?
- Substantive - Not effectively. The age axis is labeled with large intervals (0, 20, 40, 60), making it difficult to pinpoint the specific retirement ages. This leaves a vague impression that the retirement age is generally over 60, but the exact maximum age is unclear.
+Substantive - Not effectively. The age axis is labeled with large intervals (0, 20, 40, 60), making it difficult to pinpoint the specific retirement ages. This leaves a vague impression that the retirement age is generally over 60, but the exact maximum age is unclear.
 
 ### Can we understand the message the maker of the visualization is attempting to convey?
 Perceptual - No, the chart's title, "Effective retirement age for men," suggests a focus on comparing retirement ages across countries. However, the lack of precise age markings and the confusing use of colors obscure this comparison, making it hard to discern specific retirement ages or differences between countries.
@@ -49,7 +49,8 @@ This description highlights the main flaws of the visualization, emphasizing the
       ```
     - How could this data visualization have been improved?  
       ```
-    ##  To improve this data visualization, several adjustments could be made:
+
+##  To improve this data visualization, several adjustments could be made:
 
 Clarity in the Title: The title should include references to the minimum and maximum retirement ages to provide context. For example, "Effective Retirement Age for Men: Comparison by Country (Min Age - Max Age)" would immediately inform the reader about the range of data presented.
 
@@ -64,6 +65,7 @@ Data Annotations: Adding data labels or annotations, such as the exact retiremen
 Legend and Descriptions: Including a legend that explains the meaning of the colors or symbols used would help prevent confusion and ensure that the reader understands the visual encoding.
 
 By implementing these improvements, the visualization would become more informative and easier to understand, allowing readers to quickly grasp the differences in retirement ages across different countries.
+ 
  
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
