@@ -1,29 +1,38 @@
 # Data Visualization
 
-## Assignment 4: Final Project
+## Assignment 4: Final Project by Valeria Guimaraes
 
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
 
-    > Who is your intended audience? 
-    
-    > What information or message are you trying to convey with your visualization? 
-    
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
-    > How did you ensure that your data visualization is accessible?  
-    
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
-    > What ‘underwater labour’ contributed to your final data visualization product?
+Data Source: https://open.toronto.ca/dataset/earlyon-child-and-family-centres/
+
+EarlyON Child and family centres offer free programs to parents/caregivers and their children from birth to six years of age. These centres welcome all families to participate in quality programs that help strengthen adult-child relationships, support parent education, and foster healthy child development.
+
+1. Visualization 1
+![Alt text](r'C:\Users\user\Projects\visualization\02_activities\assignments\image004.png)
+
+For this first visualization, I creted a 3D map using Excel to displays the localization of the Early Years centres throughout Toronto. This resource is primarely for professionals in the sector who may need to refer families to these centres. By hoovering over each point on the map, users can view details such as the program name, full address and website of each centre.
+
+The goal of this visualization is to highlight the availability of Child and Family Centres in Toronto.
+I followed aesthetic design principles, using different fonts of diferent, sizes, and colors that are pleasing but not overwhelming. Eachpoint on the map represents a unique centre, and the information provided includes details for each centre. 
+
+The data used in this visualization is publicly available and has been saved in an Excel file. The file includes notes detailing the data cleaning process. However, a downside of using Excel for this purpose is that the embeded tour feature can be challenging for recipients undamiliar with this tool.  For future mapping projects, I may consider using a different tool based on the learning obtained in this course.
+
+This visualization could be added to a webpage for easier access and viewing. It could be particularly beneficial for families with children aged 0-6 lving in Toronto, as it may help them find suitable centres for visits and referrals.
+
+To determine which features of the dataset to include in the visualization, I categorized the variables into three levels: "Good," "Nice to have," and "Not required." This helped me focus on the most relevant data for the general population, excluding variables such as staff and contact details, which were unnecessary for this exercise.
+
+The process of creating the final data visualization involved significant "underwater labor." Selecting the dataset was challenging due to the many ideas that emerged during the data visualization program. Given time constraints, I opted for a theme familiar to me, which is part of my work as a data analyst for a social services agency. This choice allowed me to efficiently manage the project and produce a meaningful visualization.
+
+2. Visualization 
+
+Using the same data source in Python, I created two visualizations of the Early Years centres, grouped by city wards. The first visualization highlights the ward with the maximum number of centres, while the second shows all centres distributed across the wards. You can find these visualizations in the Jupyter notebook.
+
+Initially, my goal was to display the number of centres per ward. However, the chart became overly crowded and visually unappealing. To address this, I created a bar chart showing the top 10 wards by the number of centres, using a gradient color scheme ranging from dark purple to light green. The second visualization is a pairplot that visualizes the location of centres by wards, also using gradient colors.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
